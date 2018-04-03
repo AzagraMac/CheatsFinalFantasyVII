@@ -1,0 +1,580 @@
+_S SCES_00900
+_G Final Fantasy VII
+_C0 Cloud Nivel 99
+_L 8009C801 0063
+_C0 Barret Nivel 99
+_L 8009C885 0063
+_C0 Tifa Nivel 99
+_L 8009C909 0063
+_C0 Aeris Nivel 99
+_L 8009C98D 0063
+_C0 Rd XIII Nivel 99
+_L 8009CA11 0063
+_C0 Yuffie  Nivel 99
+_L 8009CA95 0063
+_C0 Sephiroth Nivel 99
+_L 8009CB9D 0063
+_C0 Caith Nivel 99
+_L 8009CB19 0063
+_C0 Cloud Fuerza
+_L 3009C802 00FF
+_C0 Cloud Vitalidad
+_L 3009C803 00FF
+_C0 Cloud Magia
+_L 3009C804 00FF
+_C0 Cloud Espiritu
+_L 3009C805 00FF
+_C0 Cloud Destreza
+_L 3009C806 00FF
+_C0 Cloud Suerte
+_L 3009C807 00FF
+_C0 Barret Fuerza
+_L 3009C886 00FF
+_C0 Barret Vitalidad
+_L 3009C887 00FF
+_C0 Barret Magia
+_L 3009C888 00FF
+_C0 Barret Espiritu
+_L 3009C889 00FF
+_C0 Barret Destreza
+_L 3009C88A 00FF
+_C0 Barret Suerte
+_L 3009C88B 00FF
+_C0 Tifa Fuerza
+_L 3009C90A 00FF
+_C0 Tifa Vitalidad
+_L 3009C90B 00FF
+_C0 Tifa Magia
+_L 3009C90C 00FF
+_C0 Tifa Espiritu
+_L 3009C90D 00FF
+_C0 Tifa Destreza
+_L 3009C90E 00FF
+_C0 Tifa Suerte
+_L 3009C90F 00FF
+_C0 Aeris Fuerza
+_L 3009C98E 00FF
+_C0 Aeris Vitalidad
+_L 3009C98F 00FF
+_C0 Aeris Magia
+_L 3009C990 00FF
+_C0 Aeris Espiritu
+_L 3009C991 00FF
+_C0 Aeris Destreza
+_L 3009C992 00FF
+_C0 Aeris Suerte
+_L 3009C993 00FF
+_C0 Red XIII Fuerza
+_L 3009CA12 00FF
+_C0 Red XIII Vitalidad
+_L 3009CA13 00FF
+_C0 Red XIII Magia
+_L 3009CA14 00FF
+_C0 Red XIII Espiritu
+_L 3009CA15 00FF
+_C0 Red XIII Destreza
+_L 3009CA16 00FF
+_C0 Red XIII Suerte
+_L 3009CA17 00FF
+_C0 Yuffie Fuerza
+_L 3009CA96 00FF
+_C0 Yuffie Vitalidad
+_L 3009CA97 00FF
+_C0 Yuffie Magia
+_L 3009CA98 00FF
+_C0 Yuffie Espiritu
+_L 3009CA99 00FF
+_C0 Yuffie Destreza
+_L 3009CA9A 00FF
+_C0 Yuffie Suerte
+_L 3009CA9B 00FF
+_C0 Sephiroth Fuerza
+_L 3009CB9E 00FF
+_C0 Sephiroth Vitalidad
+_L 3009CBAF 00FF
+_C0 Sephiroth Magia
+_L 3009CBA0 00FF
+_C0 Sephiroth Espiritu
+_L 3009CBA1 00FF
+_C0 Sephiroth Destreza
+_L 3009CBA2 00FF
+_C0 Sephiroth Suerte
+_L 3009CBA3 00FF
+_C0 Cid Fuerza
+_L 3009CC22 00FF
+_C0 Cid Vitalidad
+_L 3009CC23 00FF
+_C0 Cid Magia
+_L 3009CC24 00FF
+_C0 Cid Espiritu
+_L 3009CC25 00FF
+_C0 Cid Destreza
+_L 3009CC26 00FF
+_C0 Cid Suerte
+_L 3009CC27 00FF
+_C0 Caith Fuerza
+_L 3009CB1A 00FF
+_C0 Caith Vitalidad
+_L 3009CB1B 00FF
+_C0 Caith Magia
+_L 3009CB1C 00FF
+_C0 Caith Espiritu
+_L 3009CB1D 00FF
+_C0 Caith Destreza
+_L 3009CB1E 00FF
+_C0 Caith Suerte
+_L 3009CB1F 00FF
+_C0 Super PM
+_L 8009CF28 FF00
+_C0 Super PG
+_L 8009CF2C FF01
+_C0 Super Velocidad
+_L 8009CF30 FF02
+_C0 Super Magia
+_L 8009CF34 FF03
+_C0 Super Suerte
+_L 8009CF38 FF04
+_C0 Super Exp
+_L 8009CF3C FF05
+_C0 Super Gil Plus
+_L 8009CF40 FF06
+_C0 Enemigo Alejado
+_L 8009CF44 FF07
+_C0 Atrae Enemigos
+_L 8009CF48 FF08
+_C0 Atrae Chocobos
+_L 8009CF4C FF09
+_C0 Prevacios
+_L 8009CF50 FF0A
+_C0 Larga Fila
+_L 8009CF54 FF0B
+_C0 MegaTodo
+_L 8009CF58 FF0C
+_C0 ContraAtaque
+_L 8009CF5C FF0D
+_C0 Fulminar todos
+_L 8009CF60 FF0E
+_C0 Doble Corte
+_L 8009CF64 FF0F
+_C0 Cubrir
+_L 8009CF68 FF10
+_C0 Subacuatico
+_L 8009CF6C FF11
+_C0 PG>PM
+_L 8009CF70 FF12
+_C0 Magia W
+_L 8009CF74 FF13
+_C0 Invocacion W
+_L 8009CF78 FF14
+_C0 Elemento W
+_L 8009CF7C FF15
+_C0 Todos
+_L 8009CF80 FF17
+_C0 Contar
+_L 8009CF88 FF18
+_C0 Oposicion Magica
+_L 8009CF8C FF19
+_C0 Turbo PM
+_L Turbo PM
+_C0 Absorcion PM
+_L 8009CF94 FF1B
+_C0 Absorion PG
+_L 8009CF98 FF1C
+_C0 Elemento basico
+_L 8009CF9C FF1D
+_C0 Efecto añadido
+_L 8009CFA0 FF1E
+_C0 Ataque furtivo
+_L 8009CFA4 FF1F
+_C0 Ataque final
+_L 8009CFA8 FF20
+_C0 Corte añadido
+_L 8009CFAC FF21
+_C0 Robo simultaneo
+_L 8009CFB0 FF22
+_C0 Cuadrimagia
+_L 8009CFB4 FF23
+_C0 Robar
+_L 8009CFB8 FF24
+_C0 Sentir
+_L 8009CFBC FF25
+_C0 Lanzar
+_L 8009CFC0 FF27
+_C0 Morfo
+_L 8009CFC4 FF28
+_C0 Golpe Mortal
+_L 8009CFC8 FF29
+_C0 Manipular
+_L 8009CFCC FF2A
+_C0 Gesticular
+_L 8009CFD0 FF2B
+_C0 Habilidad enemiga
+_L 8009CFD4 FF2C
+_C0 Comando maestro
+_L 8009CFD8 FF30
+_C0 Fuego
+_L 8009CFDC FF31
+_C0 Hielo
+_L 8009CFE0 FF32
+_C0 Tierra
+_L 8009CFE4 FF33
+_C0 Relampago
+_L 8009CFE8 FF34
+_C0 Recuperar
+_L 8009CFEC FF35
+_C0 Sanar
+_L 8009CFF0 FF36
+_C0 Revivir
+_L 8009CFF4 FF37
+_C0 Sellar
+_L 8009CFF8 FF38
+_C0 Mitificar
+_L 8009CFFC FF39
+_C0 Transformar
+_L 8009D000 FF3A
+_C0 Salir
+_L 8009D004 FF3B
+_C0 Envenenar
+_L 8009D008 FF3C
+_C0 Gravedad
+_L 8009D00C FF3D
+_C0 Barrera
+_L 8009D010 FF3E
+_C0 BarreraM
+_L 8009D014 FF3F
+_C0 Cometa
+_L 8009D018 FF40
+_C0 Tiempo
+_L 8009D01C FF41
+_C0 Destruir
+_L 8009D020 FF44
+_C0 Contener
+_L 8009D024 FF45
+_C0 Cura total
+_L 8009D028 FF46
+_C0 Escudo
+_L 8009D02C FF47
+_C0 Ultima
+_L 8009D030 FF48
+_C0 Magia Maestra
+_L 8009D034 FF49
+_C0 Choco
+_L 8009D038 FF4A
+_C0 Shiva
+_L 8009D03C FF4B
+_C0 Ifrit
+_L 8009D040 FF4C
+_C0 Ramuh
+_L 8009D044 FF4D
+_C0 Titan
+_L 8009D048 FF4E
+_C0 Odin
+_L 8009D04C FF4F
+_C0 Leviatan
+_L 8009D050 FF50
+_C0 Bahamut
+_L 8009D054 FF51
+_C0 Kjata
+_L 8009D058 FF52
+_C0 Fenix
+_L 8009D060 FF54
+_C0 Hades
+_L 8009D068 FF56
+_C0 Typoon
+_L 8009D06C FF57
+_C0 BahamutCERO
+_L 8009D070 FF58
+_C0 Invocar maestro
+_L 8009D078 FF5A
+_C0 Pocion
+_L 8009CCA8 C600
+_C0 Pocion S
+_L 8009CCAA C601
+_C0 Pocion X
+_L 8009CCAC C602
+_C0 Eter
+_L 8009CCAE C603
+_C0 Eter turbo
+_L 8009CCB0 C604
+_C0 Elixir
+_L 8009CCB2 C605
+_C0 Megaelixir
+_L 8009CCB4 C606
+_C0 Cola de Fenix
+_L 8009CCB6 C607
+_C0 Antidoto
+_L 8009CCB8 C608
+_C0 Blando
+_L 8009CCBA C609
+_C0 Beso doncella
+_L 8009CCBC C60A
+_C0 Cornucopia
+_L 8009CCBE C60B
+_C0 Pantalla sonora
+_L 8009CCC0 C60C
+_C0 Hiper
+_L 8009CCC2 C60D
+_C0 Tranquilizante
+_L 8009CCC4 C60E
+_C0 Remedio
+_L 8009CCC6 C60F
+_C0 Bomba humo
+_L 8009CCC8 C610
+_C0 Bebida velocidad
+_L 8009CCCA C611
+_C0 Bebida heroe
+_L 8009CCCC C612
+_C0 Vacuna
+_L 8009CCCE C613
+_C0 Granada
+_L 8009CCD0 C614
+_C0 Metralla
+_L 8009CCD2 C615
+_C0 Brazo derecho
+_L 8009CCD4 C616
+_C0 Reloj de arena
+_L 8009CCD6 C617
+_C0 Beso mortal
+_L 8009CCD8 C618
+_C0 Telaraña
+_L 8009CCDA C619
+_C0 Polvo dormir
+_L 8009CCDC C61A
+_C0 Mascara silencio
+_L 8009CCDE C61B
+_C0 Gong
+_L 8009CCE0 C61C
+_C0 Hierbas
+_L 8009CCE2 C61D
+_C0 Colmillo fuego
+_L 8009CCE4 C61E
+_C0 Velo fuego
+_L 8009CCE6 C61F
+_C0 Viento artantico
+_L 8009CCE8 C620
+_C0 Cristal hielo
+_L 8009CCEA C621
+_C0 Pluma rayo
+_L 8009CCEC C622
+_C0 Rayo rapido
+_L 8009CCEE C623
+_C0 Tambor tierra
+_L 8009CCF0 C624
+_C0 Mazo tierra
+_L 8009CCF2 C625
+_C0 Basura letal
+_L 8009CCF4 C626
+_C0 M-Tentaculos
+_L 8009CCF6 C627
+_C0 Polvo estelar
+_L 8009CCF8 C628
+_C0 Colmillo vampiro
+_L 8009CCFA C629
+_C0 Mano fantasma
+_L 8009CCFC C62A
+_C0 Garra vagyrisk
+_L 8009CCFE C62B
+_C0 Cortina luz
+_L 8009CD00 C62C
+_C0 Cortina lunar
+_L 8009CD02 C62D
+_C0 Espejo
+_L 8009CD04 C62E
+_C0 Antorcha sagrada
+_L 8009CD06 C62F
+_C0 Ala pajaro
+_L 8009CD08 C630
+_C0 Escama dragon
+_L 8009CD0A C631
+_C0 Empalar
+_L 8009CD0C C632
+_C0 Secado
+_L 8009CD0E C633
+_C0 Colirio
+_L 8009CD10 C634
+_C0 Molotov
+_L 8009CD12 C635
+_C0 Mina S
+_L 8009CD14 C636
+_C0 Cañon
+_L 8009CD16 C637
+_C0 Bomba T/S
+_L 8009CD18 C639
+_C0 Tinta
+_L 8009CD1A C63A
+_C0 Aturdidor
+_L 8009CD1C C63B
+_C0 Colmillo dragon
+_L 8009CD1E C63C
+_C0 Caldera
+_L 8009CD20 C63D
+_C0 Verdura Sylkis
+_L 8009CD22 C63E
+_C0 Verdura Reagan
+_L 8009CD24 C63F
+_C0 8009CD24 C63F
+_L 8009CD26 C640
+_C0 Verdura Curiel
+_L 8009CD28 C641
+_C0 Verdura Pahsana
+_L 8009CD2A C642
+_C0 Verdura Tantal
+_L 8009CD2C C643
+_C0 Verdura Krakka
+_L 8009CD2E C644
+_C0 Verdura Gyshal
+_L 8009CD30 C645
+_C0 Carpa
+_L 8009CD32 C646
+_C0 Fuente potencia
+_L 8009CD34 C647
+_C0 Fuente guardia
+_L 8009CD36 C648
+_C0 Fuente magia
+_L 8009CD38 C649
+_C0 Fuente espiritu
+_L 8009CD3A C64A
+_C0 Fuente velocidad
+_L 8009CD3C C64B
+_C0 Fuente suerte
+_L 8009CD3E C64C
+_C0 Nuez Zeio
+_L 8009CD40 C64D
+_C0 Nuez Algarrobo
+_L 8009CD42 C64E
+_C0 Nuez Porov
+_L 8009CD44 C64F
+_C0 Nuez Pram
+_L 8009CD46 C650
+_C0 Nuez Lasan
+_L 8009CD48 C651
+_C0 Nuez Saraha
+_L 8009CD4A C652
+_C0 Nuez Luchile
+_L 8009CD4C C653
+_C0 Nuez Pepio
+_L 8009CD4E C654
+_C0 Bateria
+_L 8009CD50 C655
+_C0 Pañuelo
+_L 8009CD52 C656
+_C0 Omnilatigo
+_L 8009CD54 C657
+_C0 Catastrofe
+_L 8009CD56 C658
+_C0 Cielo final
+_L 8009CD58 C659
+_C0 Gran evangelio
+_L 8009CD5A C65A
+_C0 Memoria cosmica
+_L 8009CD5C C65B
+_C0 Toda creacion
+_L 8009CD5E C65C
+_C0 Caos
+_L 8009CD60 C65D
+_C0 Gran viento
+_L 8009CD62 C65E
+_C0 Soldado 1/35
+_L 8009CD64 C65F
+_C0 Super barredor
+_L 8009CD66 C660
+_C0 Espada masamune
+_L 8009CD68 C661
+_C0 Cristal salvador
+_L 8009CD6A C662
+_C0 Diario de combate
+_L 8009CD6C C663
+_C0 Autografo
+_L 8009CD6E C664
+_C0 Jugador
+_L 8009CD70 C665
+_C0 Rosa del desierto
+_L 8009CD72 C666
+_C0 Arpa tierra
+_L 8009CD74 C667
+_C0 Guia
+_L 8009CD76 C668
+_C0 Espada mortal
+_L 8009CD78 C680
+_C0 Sable mitrillo
+_L 8009CD7A C681
+_C0 Borde duro
+_L 8009CD7C C682
+_C0 Borde mariposa
+_L 8009CD7E C683
+_C0 Super espada
+_L 8009CD80 C684
+_C0 Organica
+_L 8009CD82 C685
+_C0 Espada cristal
+_L 8009CD84 C686
+_C0 Ladron
+_L 8009CD86 C687
+_C0 Hoja runa
+_L 8009CD88 C688
+_C0 Murasame
+_L 8009CD8A C689
+_C0 Garra
+_L 8009CD8C C68A
+_C0 Yoshiyuki
+_L 8009CD8E C68B
+_C0 Apocalipsis
+_L 8009CD90 C68C
+_C0 Nubecilo
+_L 8009CD92 C68D
+_C0 Ragnarok
+_L 8009CD94 C68E
+_C0 Arma final
+_L 8009CD96 C68F
+_C0 Guante de piel
+_L 8009CD98 C690
+_C0 Nudillo metal
+_L 8009CD9A C691
+_C0 Garra mitrillo
+_L 8009CD9C C692
+_C0 Gran guante
+_L 8009CD9E C693
+_C0 Colmillo tigre
+_L 8009CDA0 C694
+_C0 Nudillo diamante
+_L 8009CDA2 C695
+_C0 Garra dragon
+_L 8009CDA4 C696
+_C0 Guante cristal
+_L 8009CDA6 C697
+_C0 Fuerza motor
+_L 8009CDA8 C698
+_C0 Puño platino
+_L 8009CDAA C699
+_C0 Nudillo caiser
+_L 8009CDAC C69A
+_C0 Guante de trabajo
+_L 8009CDAE C69B
+_C0 Alma poder
+_L 8009CDB0 C69C
+_C0 Puño maestro
+_L 8009CDB2 C69D
+_C0 Mano de dios
+_L 8009CDB4 C69E
+_C0 Corazon
+_L 8009CDB6 C69F
+_C0 Arma abrir
+_L 8009CDB8 C6A0
+_C0 Arma de asalto
+_L 8009CDBA C6A1
+_C0 Bala cañon
+_L 8009CDBC C6A2
+_C0 Tijera atomica
+_L 8009CDBE C6A3
+_C0 Vulcano pesado
+_L 8009CDC0 C6A4
+_C0 Motosierra
+_L 8009CDC2 C6A5
+_C0 Microlaser
+_L 8009CDC4 C6A6
+_C0 Cañon A*M
+_L 8009CDC6 C6A7
+_C0 Metralleta W
+_L 8009CDC8 C6A8
+_C0 Taladro
+_L Bazuca solido
