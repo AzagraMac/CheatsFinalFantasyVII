@@ -1,3 +1,5 @@
+![GitHub top language](https://img.shields.io/github/languages/top/azagramac/CheatsFinalFantasyVII.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/CheatsFinalFantasyVII/master.svg)
+
 # Cheats Final Fantasy VII for PSX / PSP
 <img align="center" src="https://vignette.wikia.nocookie.net/leonhartimvu/images/a/af/Final_Fantasy_VII_Logo.png/revision/latest/scale-to-width-down/320?cb=20131008080546" height="180px" /> 
 
