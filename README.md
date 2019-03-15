@@ -1,7 +1,9 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/azagramac/CheatsFinalFantasyVII.svg) ![GitHub last commit (branch)](https://img.shields.io/github/last-commit/azagramac/CheatsFinalFantasyVII/master.svg)
 
 # Cheats Final Fantasy VII for PSX / PSP
-<img align="center" src="logo.png" alt="PNG" height="180px" />
+<p align="center">
+	<img src="logo.png" alt="PNG" height="180px" />
+</p>
 
 
 
